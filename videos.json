@@ -1,0 +1,149 @@
+{
+  "versao": 1,
+  "videos": [
+    {
+      "guia": "ajuda-e-tutoriais",
+      "tipo": "video",
+      "id": "TuEfzdufX4M",
+      "titulo": "Conhecendo o Sis: menu, busca, tema e ajuda"
+    },
+    {
+      "guia": "busca-por-topico",
+      "tipo": "video",
+      "id": "TuEfzdufX4M",
+      "titulo": "Conhecendo o Sis: menu, busca, tema e ajuda"
+    },
+    {
+      "guia": "caixa",
+      "tipo": "video",
+      "id": "Yh7lC2fQcpM",
+      "titulo": "Abrir e fechar o caixa"
+    },
+    {
+      "guia": "catalogo-produtos",
+      "tipo": "video",
+      "id": "m0gsA4Ejd0I",
+      "titulo": "Cadastrar produtos"
+    },
+    {
+      "guia": "cmv-contabil",
+      "tipo": "video",
+      "id": "VT4kHZMO69U",
+      "titulo": "Controle de perdas e estoque mínimo e máximo"
+    },
+    {
+      "guia": "contas-pagar",
+      "tipo": "video",
+      "id": "os-tualIJl4",
+      "titulo": "Contas a receber e a pagar: lançar e dar baixa"
+    },
+    {
+      "guia": "contas-receber",
+      "tipo": "video",
+      "id": "os-tualIJl4",
+      "titulo": "Contas a receber e a pagar: lançar e dar baixa"
+    },
+    {
+      "guia": "dre",
+      "tipo": "video",
+      "id": "xkcxk1-kWPY",
+      "titulo": "Ver o resultado: DRE e fluxo de caixa"
+    },
+    {
+      "guia": "fila-de-impressao",
+      "tipo": "video",
+      "id": "oKtB72frFuE",
+      "titulo": "Imprimir: impressoras e fila de impressão"
+    },
+    {
+      "guia": "fluxo-projetado",
+      "tipo": "video",
+      "id": "xkcxk1-kWPY",
+      "titulo": "Ver o resultado: DRE e fluxo de caixa"
+    },
+    {
+      "guia": "grupos",
+      "tipo": "video",
+      "id": "qX-K71V2O40",
+      "titulo": "Grupos e permissões: quem pode o quê"
+    },
+    {
+      "guia": "impressoras",
+      "tipo": "video",
+      "id": "oKtB72frFuE",
+      "titulo": "Imprimir: impressoras e fila de impressão"
+    },
+    {
+      "guia": "kardex",
+      "tipo": "video",
+      "id": "VT4kHZMO69U",
+      "titulo": "Controle de perdas e estoque mínimo e máximo"
+    },
+    {
+      "guia": "manifestacao-dfe",
+      "tipo": "video",
+      "id": "j4T68A-0ZC4",
+      "titulo": "Dar entrada na nota do fornecedor"
+    },
+    {
+      "guia": "menu-favoritos",
+      "tipo": "video",
+      "id": "TuEfzdufX4M",
+      "titulo": "Conhecendo o Sis: menu, busca, tema e ajuda"
+    },
+    {
+      "guia": "movimentacao-avulsa",
+      "tipo": "video",
+      "id": "VT4kHZMO69U",
+      "titulo": "Controle de perdas e estoque mínimo e máximo"
+    },
+    {
+      "guia": "nota-entrada",
+      "tipo": "video",
+      "id": "j4T68A-0ZC4",
+      "titulo": "Dar entrada na nota do fornecedor"
+    },
+    {
+      "guia": "nota-fiscal",
+      "tipo": "video",
+      "id": "0CmktxFg__I",
+      "titulo": "Emitir a nota fiscal da venda"
+    },
+    {
+      "guia": "orcamento",
+      "tipo": "video",
+      "id": "eqz3e5LKYGs",
+      "titulo": "Fazer um orçamento e lançar uma venda"
+    },
+    {
+      "guia": "permissoes-grupo",
+      "tipo": "video",
+      "id": "qX-K71V2O40",
+      "titulo": "Grupos e permissões: quem pode o quê"
+    },
+    {
+      "guia": "pessoas",
+      "tipo": "video",
+      "id": "IN5nR_etG54",
+      "titulo": "Cadastrar clientes e fornecedores"
+    },
+    {
+      "guia": "posicao-estoque",
+      "tipo": "video",
+      "id": "VT4kHZMO69U",
+      "titulo": "Controle de perdas e estoque mínimo e máximo"
+    },
+    {
+      "guia": "usuarios",
+      "tipo": "video",
+      "id": "qX-K71V2O40",
+      "titulo": "Grupos e permissões: quem pode o quê"
+    },
+    {
+      "guia": "venda-operacao",
+      "tipo": "video",
+      "id": "eqz3e5LKYGs",
+      "titulo": "Fazer um orçamento e lançar uma venda"
+    }
+  ]
+}
