@@ -26,10 +26,22 @@
       "titulo": "Cadastrar produtos"
     },
     {
+      "guia": "certificado-digital",
+      "tipo": "video",
+      "id": "ViDw_N8j2-I",
+      "titulo": "Certificado digital e configuração de notas"
+    },
+    {
       "guia": "cmv-contabil",
       "tipo": "video",
       "id": "VT4kHZMO69U",
       "titulo": "Controle de perdas e estoque mínimo e máximo"
+    },
+    {
+      "guia": "configuracao-dfe",
+      "tipo": "video",
+      "id": "ViDw_N8j2-I",
+      "titulo": "Certificado digital e configuração de notas"
     },
     {
       "guia": "contas-pagar",
